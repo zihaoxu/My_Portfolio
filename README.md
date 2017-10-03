@@ -11,12 +11,12 @@ Resume: https://goo.gl/gvVqxW
 Random Forests are a successful ensemble method that utilizes a number of decision trees to make predictions robust in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the random forest algorithm, requires each decision tree to physically store and perform computations on data sets of the same size as the input training set, a situation that is oftentimes impractical given the humongous sizes of data sets today. To address this problem, we introduce the Bag of Little Random Forests (BLRF), a new algorithm that adapts the Bags of Little Bootstraps [5], aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the standard random forest.
 
 #### Paper
-Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin
-Link: https://goo.gl/S9hNZw
+Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin  
+Link: https://goo.gl/gJHqar
 
 #### Presentations
-Project PPT: 
-Project Poster: 
+Project PPT: https://goo.gl/KJ34uY  
+Project Poster: https://goo.gl/LmkZu4  
 Project Visualizations: 
 
 ### Yelp recommender
