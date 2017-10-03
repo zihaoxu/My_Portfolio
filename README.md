@@ -12,7 +12,12 @@ Random Forests are a successful ensemble method that utilizes a number of decisi
 
 #### Paper
 Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin
-Link: 
+Link: https://goo.gl/S9hNZw
+
+#### Presentations
+Project PPT: 
+Project Poster: 
+Project Visualizations: 
 
 ### Yelp recommender
 
