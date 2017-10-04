@@ -3,12 +3,14 @@ Welcome to my data science Portfolio! This repository is designed to give you a 
 
 ## Basic information
 Resume: https://goo.gl/gvVqxW
-Related Courses: Computational Statistics; Big Data - Platform/Application; Econometrics; Data Structures; Probability; Statistical Theory; Financial Statement Analysis; Microeconomic Theory  
+Related Courses:  
+Computational Statistics; Big Data - Platform/Application; Econometrics; Data Structures; Probability; Statistical Theory; Financial Statement Analysis; Microeconomic Theory  
+
 Related Experience:  
-Business and Credit Risk Analyst Intern at Scratch Financial, LLC  
-Summer Researcher at Pomona College Mathematics Department  
-Research Assistant at Pomona College Economics Department  
-Quantitative Analyst Intern at Guotai Junan Securities Co., Ltd  
+- Business and Credit Risk Analyst Intern at Scratch Financial, LLC  
+- Summer Researcher at Pomona College Mathematics Department  
+- Research Assistant at Pomona College Economics Department  
+- Quantitative Analyst Intern at Guotai Junan Securities Co., Ltd  
 
 
 ## On-going Projects
