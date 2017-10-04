@@ -3,6 +3,12 @@ Welcome to my data science Portfolio! This repository is designed to give you a 
 
 ## Basic information
 Resume: https://goo.gl/gvVqxW
+Related Courses: Computational Statistics; Big Data - Platform/Application; Econometrics; Data Structures; Probability; Statistical Theory; Financial Statement Analysis; Microeconomic Theory  
+Related Experience:  
+Business and Credit Risk Analyst Intern at Scratch Financial, LLC  
+Summer Researcher at Pomona College Mathematics Department  
+Research Assistant at Pomona College Economics Department  
+Quantitative Analyst Intern at Guotai Junan Securities Co., Ltd  
 
 
 ## On-going Projects
@@ -19,13 +25,13 @@ Project PPT: https://goo.gl/KJ34uY
 Project Poster: https://goo.gl/LmkZu4  
 Project Visualizations: https://goo.gl/nU1gDC  
 
-### Yelp 
+### Yelp Recommendation System
 
 ### KKBox Churning Prediction Challenge
 
 
 ## Past Experiences
-### jac_project (Yelp - Zillow Data Analytics)
+### Yelp - Zillow Data Analytics (jac_project)
 
 ### Statsketball Challenge
 
