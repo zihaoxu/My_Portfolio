@@ -2,7 +2,8 @@
 Welcome to my data science Portfolio! This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. I am currently looking for a summer internship in data science. If you are interesed in reaching out to me, my email address is zihao.xu@pomona.edu. 
 
 ## Basic information
-Resume: https://goo.gl/gvVqxW
+Resume: https://goo.gl/gvVqxW  
+
 Related Courses:  
 Computational Statistics; Big Data - Platform/Application; Econometrics; Data Structures; Probability; Statistical Theory; Financial Statement Analysis; Microeconomic Theory  
 
