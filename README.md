@@ -5,8 +5,14 @@ Welcome to my data science Portfolio! This repository is designed to give you a 
 ### Resume: 
 https://goo.gl/gvVqxW  
 
-### Related Courses:  
-Computational Statistics; Big Data - Platform/Application; Econometrics; Data Structures; Probability; Statistical Theory; Financial Statement Analysis; Microeconomic Theory  
+### Related Courses  
+#### Computational Statistics  
+- Data Visualization and Wrangling - ggplot2 and dplyr:  
+- Simulation - Pass the Pigs:  
+- 
+#### Big Data - Platform/Application  
+#### Econometrics  
+#### Data Structures  
 
 ### Related Experience:  
 - Business and Credit Risk Analyst Intern at Scratch Financial, LLC  
@@ -18,7 +24,7 @@ Computational Statistics; Big Data - Platform/Application; Econometrics; Data St
 ## On-going Projects
 ### Bag of Little Random Forests(BLRF)
 #### Abstract  
-Random Forests are a successful ensemble method that utilizes a number of decision trees to make predictions robust in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the random forest algorithm, requires each decision tree to physically store and perform computations on data sets of the same size as the input training set, a situation that is oftentimes impractical given the humongous sizes of data sets today. To address this problem, we introduce the Bag of Little Random Forests (BLRF), a new algorithm that adapts the Bags of Little Bootstraps [5], aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the standard random forest.
+Random Forests are an ensemble method that utilizes a number of decision trees to make predictions robust in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the random forest algorithm, requires each decision tree to physically store and perform computations on data sets of the same size as the input training set, a situation that is oftentimes impractical given the humongous sizes of data sets today. To address this problem, we introduce the Bag of Little Random Forests (BLRF), a new algorithm that adapts the Bags of Little Bootstraps to a Big Data setting, aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the standard random forest.
 
 #### Research Paper
 Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin  
