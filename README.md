@@ -12,22 +12,18 @@ https://goo.gl/gvVqxW
 - Quantitative Analyst Intern at Guotai Junan Securities Co., Ltd  
 
 ### Related Courses  
-#### Computational Statistics  
-Link: https://goo.gl/rfusFE  
+#### Computational Statistics, Link: https://goo.gl/rfusFE  
 - Data Visualization and Wrangling w/ ggplot2 and dplyr  
 - Simulation - Pass the Pigs  
 - Permutation test  
-#### Big Data - Platform/Application  
-Link: https://goo.gl/k7wRdq  
+#### Big Data - Platform/Application, Link: https://goo.gl/k7wRdq  
 - WordCount with MapReduce  
 - PageRank with MapReduce  
-#### Econometrics  
+#### Econometrics, Link: https://goo.gl/gqcrjv  
 Final Project using multivariable regression  
-Link: https://goo.gl/gqcrjv  
   - Benchmark Model on GDP  
   - Institutional Growth Model on GDP  
   - Charitable Giving Model on household donation  
-#### Data Structures  
 
 
 ## On-going Projects
