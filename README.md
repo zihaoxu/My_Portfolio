@@ -14,7 +14,7 @@ https://goo.gl/gvVqxW
 #### Econometrics  
 #### Data Structures  
 
-### Related Experience:  
+### Working Experience:  
 - Business and Credit Risk Analyst Intern at Scratch Financial, LLC  
 - Summer Researcher at Pomona College Mathematics Department  
 - Research Assistant at Pomona College Economics Department  
