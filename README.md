@@ -66,6 +66,6 @@ Link: https://goo.gl/fEBRNx
 #### Abstract  
 Using the dataset from Expedia, we segmented the market by families with varying number of children and explored the different behaviors of these segments. Using visualization techniques like heatmap and geomap, we were able to discover differences in travel planning habits, popular destinations of each group, as well as identifying the geographical distribution of large/small families to allow for better targeted promotion.
 #### Project Presentation  
-Link: https://goo.gl/fEBRNx  
+Link: https://goo.gl/4MmRJx  
 
 
