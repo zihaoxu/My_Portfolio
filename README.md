@@ -2,23 +2,32 @@
 Welcome to my data science Portfolio! This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. I am currently looking for a summer internship in data science. If you are interesed in reaching out to me, my email address is zihao.xu@pomona.edu. 
 
 ## Basic information
-### Resume: 
+### Resume 
 https://goo.gl/gvVqxW  
-
-### Related Courses  
-#### Computational Statistics  
-- Data Visualization and Wrangling - ggplot2 and dplyr:  
-- Simulation - Pass the Pigs:  
-- 
-#### Big Data - Platform/Application  
-#### Econometrics  
-#### Data Structures  
 
 ### Working Experience:  
 - Business and Credit Risk Analyst Intern at Scratch Financial, LLC  
 - Summer Researcher at Pomona College Mathematics Department  
 - Research Assistant at Pomona College Economics Department  
 - Quantitative Analyst Intern at Guotai Junan Securities Co., Ltd  
+
+### Related Courses  
+#### Computational Statistics  
+Link: https://goo.gl/rfusFE  
+- Data Visualization and Wrangling w/ ggplot2 and dplyr  
+- Simulation - Pass the Pigs  
+- Permutation test  
+#### Big Data - Platform/Application  
+Link: https://goo.gl/k7wRdq  
+- WordCount with MapReduce  
+- PageRank with MapReduce  
+#### Econometrics  
+Final Project using multivariable regression  
+Link: https://goo.gl/gqcrjv  
+  - Benchmark Model on GDP  
+  - Institutional Growth Model on GDP  
+  - Charitable Giving Model on household donation  
+#### Data Structures  
 
 
 ## On-going Projects
@@ -46,3 +55,4 @@ Project Visualizations: https://goo.gl/nU1gDC
 ### Statsketball Challenge
 
 ### UCLA DataFest - Expedia Challenge
+
