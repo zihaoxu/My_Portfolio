@@ -51,7 +51,7 @@ In this project, we aim to predict 2017 NCAA March Madness basketball game resul
 **Project Summary:**  https://goo.gl/fEBRNx  
 
 ### Expedia Challenge - UCLA DataFest  
-Using the dataset from Expedia, we segmented the market by families with varying number of children and explored the different behaviors of these segments. Using visualization techniques like heatmap and geomap, we were able to discover differences in travel planning habits, popular destinations of each group, as well as identifying the geographical distribution of large/small families to allow for better targeted promotion.
+Using the dataset from Expedia, we segmented the market by families with varying number of children and explored the different behaviors of these segments. Using visualization techniques like heatmap and geomap, we were able to discover differences in travel planning habits, popular destinations of each group, as well as identifying the geographical distribution of large/small families to allow for better targeted promotion.  
 **Project Presentation:**  https://goo.gl/4MmRJx  
 
 
