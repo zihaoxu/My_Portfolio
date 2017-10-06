@@ -1,10 +1,7 @@
 # Zihao's Portfolio
-Welcome to my data science Portfolio! This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. I am currently looking for a summer internship in data science. If you are interested in reaching out to me, my email address is zihao.xu@pomona.edu. 
+Welcome to my data science Portfolio! This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. I am currently looking for a summer internship in data science. If you are interested in learning more about me, please take a look at my [resume](https://goo.gl/gvVqxW) or visit my [LinkedIn](https://www.linkedin.com/in/zihao-xu/). I can also be reached at zxql2015@mymail.pomona.edu through email.
 
-## Basic information
-### Resume 
-https://goo.gl/gvVqxW  
-
+## Basic information  
 ### Work Experience:  
 - Business and Credit Risk Analyst Intern at Scratch Financial, LLC  
 - Summer Researcher at Pomona College Mathematics Department  
@@ -53,5 +50,7 @@ In this project, we aim to predict 2017 NCAA March Madness basketball game resul
 ### Expedia Challenge - UCLA DataFest  
 Using the dataset from Expedia, we segmented the market by families with varying number of children and explored the different behaviors of these segments. Using visualization techniques like heatmap and geomap, we were able to discover differences in travel planning habits, popular destinations of each group, as well as identifying the geographical distribution of large/small families to allow for better targeted promotion.  
 **Project Presentation:**  https://goo.gl/4MmRJx  
+
+
 
 
