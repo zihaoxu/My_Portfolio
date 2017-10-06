@@ -5,7 +5,7 @@ Welcome to my data science Portfolio! This repository is designed to give you a 
 ### Resume 
 https://goo.gl/gvVqxW  
 
-### Working Experience:  
+### Work Experience:  
 - Business and Credit Risk Analyst Intern at Scratch Financial, LLC  
 - Summer Researcher at Pomona College Mathematics Department  
 - Research Assistant at Pomona College Economics Department  
@@ -14,14 +14,12 @@ https://goo.gl/gvVqxW
 ### Related Courses  
 #### Computational Statistics (https://goo.gl/rfusFE)  
 - Data Visualization and Wrangling w/ ggplot2 and dplyr  
-- Simulation - Pass the Pigs  
-- Permutation test  
+- Simulation and Permutation test  
 #### Big Data - Platform/Application (https://goo.gl/k7wRdq)  
 - WordCount with MapReduce  
 - PageRank with MapReduce  
 #### Econometrics (https://goo.gl/gqcrjv)  
-- Benchmark Model on GDP  
-- Institutional Growth Model on GDP  
+- Benchmark Model and Institutional Growth Model on GDP  
 - Charitable Giving Model on household donation  
 
 
