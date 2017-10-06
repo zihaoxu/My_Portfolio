@@ -12,7 +12,7 @@ https://goo.gl/gvVqxW
 - Quantitative Analyst Intern at Guotai Junan Securities Co., Ltd  
 
 ### Related Courses  
-#### Computational Statistics  https://goo.gl/rfusFE  
+#### [Computational Statistics](https://goo.gl/rfusFE)  
 - Data Visualization and Wrangling w/ ggplot2 and dplyr  
 - Simulation - Pass the Pigs  
 - Permutation test  
