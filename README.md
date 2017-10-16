@@ -30,6 +30,10 @@ Project PPT: https://goo.gl/KJ34uY
 Project Poster: https://goo.gl/LmkZu4  
 Project Visualizations: https://goo.gl/nU1gDC  
 
+### Data Science Toolbox  
+Python pipelines built for summary statistics, data cleaning and machine learning & parameter tuning.  
+**Link**: https://goo.gl/ADVyoY  
+
 ### Yelp Recommender System  
 Recommender System based on text analysis and machine learning techniques. Please wait for further update.  
 
