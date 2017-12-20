@@ -2,7 +2,7 @@
 Welcome to my data science Portfolio! This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. I am currently looking for a summer internship in data science. If you are interested in learning more about me, please take a look at my [resume](https://goo.gl/gvVqxW) or visit my [LinkedIn](https://www.linkedin.com/in/zihao-xu/). I can also be reached at zxql2015@mymail.pomona.edu through email.
 
 ## Basic information  
-### Work Experience:  
+### Work Experience:  
 - Business and Credit Risk Analyst Intern at Scratch Financial, LLC  
 - Summer Researcher at Pomona College Mathematics Department  
 - Research Assistant at Pomona College Economics Department  
@@ -34,8 +34,12 @@ Project Visualizations: https://goo.gl/nU1gDC
 Python pipelines built for summary statistics, data cleaning and machine learning & parameter tuning.  
 **Link**: https://goo.gl/ADVyoY  
 
-### Yelp Recommender System  
-Recommender System based on text analysis and machine learning techniques. Please wait for further update.  
+### Yelp Review Sentiment Analysis  
+In this project, we explored and performed sentiment analysis on reviews obtained from the Yelp Data Challenge. We explored temporal trends of review sentiment as well as interesting interactions between review tags. We also build a sentiment predictor for reviews solely based on text analysis. The resulting interactive module allows us to assess the sentiment of a unlabeled piece of review text with a confidence score.
+
+Paper & Presentation  
+Paper: https://goo.gl/s7K1uA  
+Presentation: https://goo.gl/cMzfWB  
 
 ### KKBox Churning Prediction Challenge  
 Build an algorithm that predicts whether a user will churn after their subscription expires. Please wait for further update.  
