@@ -28,7 +28,6 @@ Random Forests (Breiman, 2001) are an ensemble method that utilizes a number of 
 Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin: https://goo.gl/gJHqar  
 Project PPT: https://goo.gl/KJ34uY  
 Project Poster: https://goo.gl/LmkZu4  
-Project Visualizations: https://goo.gl/nU1gDC  
 
 ### Yelp Review Sentiment Analysis  
 In this project, we explored and performed sentiment analysis on reviews obtained from the Yelp Data Challenge. We explored temporal trends of review sentiment as well as interesting interactions between review tags. We also build a sentiment predictor for reviews solely based on text analysis. The resulting interactive module allows us to assess the sentiment of a unlabeled piece of review text with a confidence score.
