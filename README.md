@@ -30,10 +30,6 @@ Project PPT: https://goo.gl/KJ34uY
 Project Poster: https://goo.gl/LmkZu4  
 Project Visualizations: https://goo.gl/nU1gDC  
 
-### Data Science Toolbox  
-Python pipelines built for summary statistics, data cleaning and machine learning & parameter tuning.  
-**Link**: https://goo.gl/ADVyoY  
-
 ### Yelp Review Sentiment Analysis  
 In this project, we explored and performed sentiment analysis on reviews obtained from the Yelp Data Challenge. We explored temporal trends of review sentiment as well as interesting interactions between review tags. We also build a sentiment predictor for reviews solely based on text analysis. The resulting interactive module allows us to assess the sentiment of a unlabeled piece of review text with a confidence score.
 
@@ -49,6 +45,12 @@ Paper: https://goo.gl/en3cSV
 Presentation: https://goo.gl/YLjTv9  
 
 ## Past Experiences  
+
+### Data Science Toolbox  
+Python pipelines built for summary statistics, data cleaning and machine learning & parameter tuning.  
+**Link**: https://goo.gl/ADVyoY  
+
+
 ### Yelp - Zillow Data Analytics - jac_project   
 The purpose of the project was to explore and analyze the interaction between Zillow hosing price index and Yelp restaurant ratings to identify temporal trends. We merged and integrated the datasets by geospatial locations and performed various analyses. One of our most interesting findings was that, the most expensive restaurants, if located at a relative poor neighborhood, have experienced a significant decreasing trend in rating; however, the ratings remained constant for those located at a relatively rich neighborhood.  
 **Visualizations:**  https://goo.gl/CvJefP  
