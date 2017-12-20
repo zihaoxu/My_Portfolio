@@ -21,7 +21,7 @@ Welcome to my data science Portfolio! This repository is designed to give you a 
 
 
 ## On-going Projects  
-### Bag of Little Random Forests(BLRF)  
+### Bag of Little Random Forests (BLRF)  
 Random Forests (Breiman, 2001) are an ensemble method that utilizes a number of deci- sion trees to make robust predictions in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the Random Forests algo- rithm, requires each decision tree to physically store and perform computations on data sets of the same size as the training data set. This situation is oftentimes impractical given the large size of data sets nowadays. To address this problem, we introduce the Bag of Little Ran- dom Forests (BLRF), a new algorithm that combines the Random Forests with the Bag of Little Bootstraps (Kleiner et al., 2014) resampling method, aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the Random Forests.
 
 #### Research Paper and Presentation  
