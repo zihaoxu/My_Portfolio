@@ -37,13 +37,16 @@ Python pipelines built for summary statistics, data cleaning and machine learnin
 ### Yelp Review Sentiment Analysis  
 In this project, we explored and performed sentiment analysis on reviews obtained from the Yelp Data Challenge. We explored temporal trends of review sentiment as well as interesting interactions between review tags. We also build a sentiment predictor for reviews solely based on text analysis. The resulting interactive module allows us to assess the sentiment of a unlabeled piece of review text with a confidence score.
 
-Paper & Presentation  
+#### Project Paper & Presentation  
 Paper: https://goo.gl/s7K1uA  
 Presentation: https://goo.gl/cMzfWB  
 
-### KKBox Churning Prediction Challenge  
-Build an algorithm that predicts whether a user will churn after their subscription expires. Please wait for further update.  
+### KKBox Churning Prediction Kaggle Challenge  
+In this project, we aim to document our methodologies in approaching the KKBox Churning Prediction Challenge. This challenge is essentially a classification problem, but the response variable is highly imbalanced. In the below sections, we will describe and visually explore the data sets. Then we will talk about several machine learning models we employed that are highly suitable for handling imbalanced data. Our current ranking on Kaggle is 136 out of 535, achieved by the XGBoost model.
 
+#### Project Paper & Presentation  
+Paper: https://goo.gl/en3cSV  
+Presentation: https://goo.gl/YLjTv9  
 
 ## Past Experiences  
 ### Yelp - Zillow Data Analytics - jac_project   
