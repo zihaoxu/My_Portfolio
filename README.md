@@ -1,5 +1,5 @@
 # Zihao's Portfolio
-Welcome to my data science Portfolio! This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. I am currently looking for a summer internship in data science. If you are interested in learning more about me, please take a look at my [resume](https://goo.gl/gvVqxW) or visit my [LinkedIn](https://www.linkedin.com/in/zihao-xu/). I can also be reached at zxql2015@mymail.pomona.edu through email.
+Welcome to my data science Portfolio! This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. If you are interested in learning more about me, please take a look at my [resume](https://goo.gl/gvVqxW) or visit my [LinkedIn](https://www.linkedin.com/in/zihao-xu/). I can also be reached at zxql2015@mymail.pomona.edu through email.
 
 ## Basic information  
 ### Work Experience:  
