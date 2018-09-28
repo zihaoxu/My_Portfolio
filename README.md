@@ -3,6 +3,7 @@ Welcome to my data science Portfolio! This repository is designed to give you a 
 
 ## Basic information  
 ### Work Experience:  
+- Summer Analyst at Cornerstone Research  
 - Business and Credit Risk Analyst Intern at Scratch Financial, LLC  
 - Summer Researcher at Pomona College Mathematics Department  
 - Research Assistant at Pomona College Economics Department  
@@ -20,9 +21,21 @@ Welcome to my data science Portfolio! This repository is designed to give you a 
 - Charitable Giving Model on household donation  
 
 
-## On-going Projects  
+## On-going Projects 
+### BikesSGV  
+Last semester, I represented Tech for Good, a student organization that helps local non-profits with finding technical solutions to impactful problems, as the technical lead and worked with the Bike San Gabriel Valley to help them analyze bike count data they gathered over the past few years. I led a team of 4 and together, we cleaned, wrangled and visualized the datasets and our results are featured in BikeSGV's [end-of-year report](http://www.bikesgv.org/sgvcounts.html).  
+This semester, we will continue helping BikeSGV with several in-depth data analyses. While working on the project, you will gain hands-on experience in data cleaning, wrangling, visualization and maybe machine learning.  
+### Project repo: https://github.com/zihaoxu/BikeSGV  
+
+## Past Experiences  
+
+### Bayesian Neural Networks
+This project is an exploration into the intersection of the Bayesian Paradigm and Deep Learning. We apply the Bayesian Neural Networks to two different tasks: a regression task using a toy dataset and a classification task using the Wine dataset obtained from UCI ML Repo.  
+### Project Write-up: https://goo.gl/P1EYBu  
+
+
 ### Bag of Little Random Forests (BLRF)  
-Random Forests (Breiman, 2001) are an ensemble method that utilizes a number of deci- sion trees to make robust predictions in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the Random Forests algo- rithm, requires each decision tree to physically store and perform computations on data sets of the same size as the training data set. This situation is oftentimes impractical given the large size of data sets nowadays. To address this problem, we introduce the Bag of Little Ran- dom Forests (BLRF), a new algorithm that combines the Random Forests with the Bag of Little Bootstraps (Kleiner et al., 2014) resampling method, aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the Random Forests.
+Random Forests (Breiman, 2001) are an ensemble method that utilizes a number of deci- sion trees to make robust predictions in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the Random Forests algo- rithm, requires each decision tree to physically store and perform computations on data sets of the same size as the training data set. This situation is oftentimes impractical given the large size of data sets nowadays. To address this problem, we introduce the Bag of Little Ran- dom Forests (BLRF), a new algorithm that combines the Random Forests with the Bag of Little Bootstraps (Kleiner et al., 2014) resampling method, aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the Random Forests. The project is submitted to the 2017 Fall Undergraduate Research Project Competition and won the first prize.  
 
 #### Research Paper and Presentation  
 Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin: https://goo.gl/gJHqar  
@@ -42,8 +55,6 @@ In this project, we aim to document our methodologies in approaching the KKBox C
 #### Project Paper & Presentation  
 Paper: https://goo.gl/en3cSV  
 Presentation: https://goo.gl/YLjTv9  
-
-## Past Experiences  
 
 ### Data Science Toolbox  
 Python pipelines built for summary statistics, data cleaning and machine learning & parameter tuning.  
