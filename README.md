@@ -25,13 +25,15 @@ Welcome to my data science Portfolio! This repository is designed to give you a 
 ### BikesSGV  
 Last semester, I represented Tech for Good, a student organization that helps local non-profits with finding technical solutions to impactful problems, as the technical lead and worked with the Bike San Gabriel Valley to help them analyze bike count data they gathered over the past few years. I led a team of 4 and together, we cleaned, wrangled and visualized the datasets and our results are featured in BikeSGV's [end-of-year report](http://www.bikesgv.org/sgvcounts.html).  
 This semester, we will continue helping BikeSGV with several in-depth data analyses. While working on the project, you will gain hands-on experience in data cleaning, wrangling, visualization and maybe machine learning.  
-### Project repo: https://github.com/zihaoxu/BikeSGV  
+#### Project repo:  
+https://github.com/zihaoxu/BikeSGV  
 
 ## Past Experiences  
 
 ### Bayesian Neural Networks
 This project is an exploration into the intersection of the Bayesian Paradigm and Deep Learning. We apply the Bayesian Neural Networks to two different tasks: a regression task using a toy dataset and a classification task using the Wine dataset obtained from UCI ML Repo.  
-### Project Write-up: https://goo.gl/P1EYBu  
+#### Project Write-up:  
+https://goo.gl/P1EYBu  
 
 
 ### Bag of Little Random Forests (BLRF)  
