@@ -10,21 +10,22 @@ Welcome to my data science Portfolio! This repository is designed to give you a 
 - Quantitative Analyst Intern at Guotai Junan Securities Co., Ltd  
 
 ### Related Courses  
+#### Artificial Intelligence 
 #### Computational Statistics (https://goo.gl/rfusFE)  
-- Data Visualization and Wrangling w/ ggplot2 and dplyr  
-- Simulation and Permutation test  
 #### Big Data - Platform/Application (https://goo.gl/k7wRdq)  
-- WordCount with MapReduce  
-- PageRank with MapReduce  
-#### Econometrics (https://goo.gl/gqcrjv)  
-- Benchmark Model and Institutional Growth Model on GDP  
-- Charitable Giving Model on household donation  
+#### Econometrics (https://goo.gl/gqcrjv)   
 
 
-## On-going Projects 
+## On-going Projects  
+### WebGazerV2: An Efficient and Accurate CNN Model for Real-time Gaze Prediction  
+This thesis introduces WebGazerV2, an eye-tracking algorithm that combines both offline and online approaches, integrating a lightweight, pre-trained CNN model with real-time calibration. The aim is to not only utilize the accuracy of CNN models but also tailor the model towards specific user conditions. Aside from accuracy, WebGazerV2 will also focus on obtaining a prediction interval so as to measure the confidence in the model's predictions. To be submitted to Pomona College as Senior Thesis for the Mathematics Major.  
+
+
+### Deep Neural Networks for Object Enumeration  
+Estimating object count from images is a difficult problem that has a wide range of applications. In this work, we examine the object counting problem for the Amazon Bin Images dataset, which depicts bins of a pod in an operating Amazon Fulfillment Center captured before shipment. This task is riddled with many challenges, including low quality and fuzzy images, occlusions, non-uniform object density, and inconsistencies in the labeled dataset. This work presents an in-depth study of the object counting problem, exploring a deep-learning approach based on a CNN architecture. We present two solutions to this counting problem. The first solution combines transfer learning on MoblieNet, a light-weight CNN model that makes real-time prediction using little computational resource, with test time augmentation for enhanced performance. The second solution begins by training a CNN model based on the ResNet architecture and then stacks a Light Gradient Boosting Machine (LightGBM) utilizing deep features extracted from active filters in the CNN to classify the resulting count. Experimental results show promising results for this difficult task. Paper and poster are on-going.  
+
 ### BikesSGV  
-Last semester, I represented Tech for Good, a student organization that helps local non-profits with finding technical solutions to impactful problems, as the technical lead and worked with the Bike San Gabriel Valley to help them analyze bike count data they gathered over the past few years. I led a team of 4 and together, we cleaned, wrangled and visualized the datasets and our results are featured in BikeSGV's [end-of-year report](http://www.bikesgv.org/sgvcounts.html).  
-This semester, we will continue helping BikeSGV with several in-depth data analyses. While working on the project, you will gain hands-on experience in data cleaning, wrangling, visualization and maybe machine learning.  
+Last semester, I represented Tech for Good, a student organization that helps local non-profits with finding technical solutions to impactful problems, as the technical lead and worked with the Bike San Gabriel Valley to help them analyze bike count data they gathered over the past few years. I led a team of 4 and together, we cleaned, wrangled and visualized the datasets and our results are featured in BikeSGV's [end-of-year report](http://www.bikesgv.org/sgvcounts.html). This semester, we will continue helping BikeSGV with several in-depth data analyses. While working on the project, you will gain hands-on experience in data cleaning, wrangling, visualization and maybe machine learning.  
 #### Project repo:  
 https://github.com/zihaoxu/BikeSGV  
 
@@ -37,7 +38,7 @@ https://goo.gl/P1EYBu
 
 
 ### Bag of Little Random Forests (BLRF)  
-Random Forests (Breiman, 2001) are an ensemble method that utilizes a number of deci- sion trees to make robust predictions in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the Random Forests algo- rithm, requires each decision tree to physically store and perform computations on data sets of the same size as the training data set. This situation is oftentimes impractical given the large size of data sets nowadays. To address this problem, we introduce the Bag of Little Ran- dom Forests (BLRF), a new algorithm that combines the Random Forests with the Bag of Little Bootstraps (Kleiner et al., 2014) resampling method, aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the Random Forests. The project is submitted to the 2017 Fall Undergraduate Research Project Competition and won the first prize.  
+Random Forests are an ensemble method that utilizes a number of deci- sion trees to make robust predictions in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the Random Forests algo- rithm, requires each decision tree to physically store and perform computations on data sets of the same size as the training data set. This situation is oftentimes impractical given the large size of data sets nowadays. To address this problem, we introduce the Bag of Little Ran- dom Forests (BLRF), a new algorithm that combines the Random Forests with the Bag of Little Bootstraps resampling method, aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the Random Forests. The project is submitted to the 2017 Fall Undergraduate Research Project Competition and won the first prize.  
 
 #### Research Paper and Presentation  
 Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin: https://goo.gl/gJHqar  
