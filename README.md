@@ -1,5 +1,5 @@
 # Zihao's Portfolio
-Welcome to my data science Portfolio! This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. If you are interested in learning more about me, please take a look at my [resume](https://goo.gl/gvVqxW) or visit my [LinkedIn](https://www.linkedin.com/in/zihao-xu/). I can also be reached at zxql2015@mymail.pomona.edu through email.
+Welcome to my portfolio! This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. If you are interested in learning more about me, please see my [resume](https://goo.gl/gvVqxW) or visit my [LinkedIn](https://www.linkedin.com/in/zihao-xu/). I can also be reached at zihao.xu@pomona.edu through email.
 
 ## Basic information  
 ### Work Experience:  
@@ -10,10 +10,10 @@ Welcome to my data science Portfolio! This repository is designed to give you a 
 - Quantitative Analyst Intern at Guotai Junan Securities Co., Ltd  
 
 ### Related Courses  
-#### Artificial Intelligence 
-#### Computational Statistics (https://goo.gl/rfusFE)  
-#### Big Data - Platform/Application (https://goo.gl/k7wRdq)  
-#### Econometrics (https://goo.gl/gqcrjv)   
+Artificial Intelligence  
+Computational Statistics (https://goo.gl/rfusFE)  
+Big Data - Platform/Application (https://goo.gl/k7wRdq)  
+Econometrics (https://goo.gl/gqcrjv)  
 
 
 ## On-going Projects  
@@ -26,38 +26,35 @@ Estimating object count from images is a difficult problem that has a wide range
 
 ### BikesSGV  
 Last semester, I represented Tech for Good, a student organization that helps local non-profits with finding technical solutions to impactful problems, as the technical lead and worked with the Bike San Gabriel Valley to help them analyze bike count data they gathered over the past few years. I led a team of 4 and together, we cleaned, wrangled and visualized the datasets and our results are featured in BikeSGV's [end-of-year report](http://www.bikesgv.org/sgvcounts.html). This semester, we will continue helping BikeSGV with several in-depth data analyses. While working on the project, you will gain hands-on experience in data cleaning, wrangling, visualization and maybe machine learning.  
-#### Project repo:  
-https://github.com/zihaoxu/BikeSGV  
+
+**Project Repo**: https://github.com/zihaoxu/BikeSGV  
 
 ## Past Experiences  
 
 ### Bayesian Neural Networks
 This project is an exploration into the intersection of the Bayesian Paradigm and Deep Learning. We apply the Bayesian Neural Networks to two different tasks: a regression task using a toy dataset and a classification task using the Wine dataset obtained from UCI ML Repo.  
-#### Project Write-up:  
-https://goo.gl/P1EYBu  
+
+**Project Paper**: https://goo.gl/P1EYBu  
 
 
 ### Bag of Little Random Forests (BLRF)  
 Random Forests are an ensemble method that utilizes a number of deci- sion trees to make robust predictions in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the Random Forests algo- rithm, requires each decision tree to physically store and perform computations on data sets of the same size as the training data set. This situation is oftentimes impractical given the large size of data sets nowadays. To address this problem, we introduce the Bag of Little Ran- dom Forests (BLRF), a new algorithm that combines the Random Forests with the Bag of Little Bootstraps resampling method, aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the Random Forests. The project is submitted to the 2017 Fall Undergraduate Research Project Competition and won the first prize.  
 
-#### Research Paper and Presentation  
-Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin: https://goo.gl/gJHqar  
-Project PPT: https://goo.gl/KJ34uY  
-Project Poster: https://goo.gl/LmkZu4  
+**Project Paper**: Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin: https://goo.gl/gJHqar 
+**Project Presentation**: https://goo.gl/KJ34uY  
+**Project Poster**: https://goo.gl/LmkZu4  
 
 ### Yelp Review Sentiment Analysis  
 In this project, we explored and performed sentiment analysis on reviews obtained from the Yelp Data Challenge. We explored temporal trends of review sentiment as well as interesting interactions between review tags. We also build a sentiment predictor for reviews solely based on text analysis. The resulting interactive module allows us to assess the sentiment of a unlabeled piece of review text with a confidence score.
 
-#### Project Paper & Presentation  
-Paper: https://goo.gl/s7K1uA  
-Presentation: https://goo.gl/cMzfWB  
+**Project Paper**: https://goo.gl/s7K1uA  
+**Project Presentation**: https://goo.gl/cMzfWB  
 
 ### KKBox Churning Prediction Kaggle Challenge  
 In this project, we aim to document our methodologies in approaching the KKBox Churning Prediction Challenge. This challenge is essentially a classification problem, but the response variable is highly imbalanced. In the below sections, we will describe and visually explore the data sets. Then we will talk about several machine learning models we employed that are highly suitable for handling imbalanced data. Our current ranking on Kaggle is 136 out of 535, achieved by the XGBoost model.
 
-#### Project Paper & Presentation  
-Paper: https://goo.gl/en3cSV  
-Presentation: https://goo.gl/YLjTv9  
+**Project Paper**: https://goo.gl/en3cSV  
+**Project Presentation**: https://goo.gl/YLjTv9  
 
 ### Data Science Toolbox  
 Python pipelines built for summary statistics, data cleaning and machine learning & parameter tuning.  
