@@ -10,10 +10,7 @@ Welcome to my portfolio! This repository is designed to give you a better sense 
 - Quantitative Analyst Intern at Guotai Junan Securities Co., Ltd  
 
 ### Related Courses  
-Artificial Intelligence  
-Computational Statistics (https://goo.gl/rfusFE)  
-Big Data - Platform/Application (https://goo.gl/k7wRdq)  
-Econometrics (https://goo.gl/gqcrjv)  
+Artificial Intelligence, Algorithms, Stochastic Operations Research; [Computational Statistics](https://goo.gl/rfusFE); [Big Data](https://goo.gl/k7wRdq); [Econometrics](https://goo.gl/gqcrjv); Data Structures; Probability; Statistical Theory; Bayesian Statistics  
 
 
 ## On-going Projects  
@@ -22,7 +19,7 @@ This thesis introduces WebGazerV2, an eye-tracking algorithm that combines both 
 
 
 ### Deep Neural Networks for Object Enumeration  
-Estimating object count from images is a difficult problem that has a wide range of applications. In this work, we examine the object counting problem for the Amazon Bin Images dataset, which depicts bins of a pod in an operating Amazon Fulfillment Center captured before shipment. This task is riddled with many challenges, including low quality and fuzzy images, occlusions, non-uniform object density, and inconsistencies in the labeled dataset. This work presents an in-depth study of the object counting problem, exploring a deep-learning approach based on a CNN architecture. We present two solutions to this counting problem. The first solution combines transfer learning on MoblieNet, a light-weight CNN model that makes real-time prediction using little computational resource, with test time augmentation for enhanced performance. The second solution begins by training a CNN model based on the ResNet architecture and then stacks a Light Gradient Boosting Machine (LightGBM) utilizing deep features extracted from active filters in the CNN to classify the resulting count. Experimental results show promising results for this difficult task. Paper and poster are on-going.  
+Estimating object count from images is a difficult problem that has a wide range of applications in medical research, crowd counting and framing. In this work, we examine the object counting problem for the Amazon Bin Images dataset, which depicts bins of a pod in an operating Amazon Fulfillment Center captured before shipment. This task is riddled with many challenges, including low image quality, occlusion, non-uniform object shape, and inconsistencies in the data labels. This work presents an in-depth study of the object counting problem, exploring both classification and regression using a deep-learning approach. We present two solutions - end-to-end training on ResNet and model stacking with LightGBM and ResNet – that show promising results for this difficult task. Further, we present layer visualizations to understand why the models are effective. Experimental results show promising results for this difficult task. Paper and poster are on-going.  
 
 ### BikesSGV  
 Last semester, I represented Tech for Good, a student organization that helps local non-profits with finding technical solutions to impactful problems, as the technical lead and worked with the Bike San Gabriel Valley to help them analyze bike count data they gathered over the past few years. I led a team of 4 and together, we cleaned, wrangled and visualized the datasets and our results are featured in BikeSGV's [end-of-year report](http://www.bikesgv.org/sgvcounts.html). This semester, we will continue helping BikeSGV with several in-depth data analyses. While working on the project, you will gain hands-on experience in data cleaning, wrangling, visualization and maybe machine learning.  
