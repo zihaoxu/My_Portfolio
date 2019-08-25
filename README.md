@@ -9,6 +9,14 @@ Welcome to my portfolio! This repository is designed to give you a better sense 
 - Research Assistant at Pomona College Economics Department  
 - Quantitative Analyst Intern at Guotai Junan Securities Co., Ltd  
 
+### Honors & Distinctions  
+- April 2019 - Sigma Xi Member  
+- Oct 2018 - Phi Beta Kappa (PBK) Member  
+- Sept 2018 - Bruce Jay Levy Memorial Award in Mathematics  
+- April 2018 - Runner-up, Best Insight Award, UCLA DataFest  
+- March 2018 - First Prize, 2017 Fall USRESP Competition  
+- 2015–2018 - Pomona College Scholar (Dean’s List), all semesters  
+
 ### Related Courses  
 Artificial Intelligence, Algorithms, Stochastic Operations Research; [Computational Statistics](https://goo.gl/rfusFE); [Big Data](https://goo.gl/k7wRdq); [Econometrics](https://goo.gl/gqcrjv); Data Structures; Probability; Statistical Theory; Bayesian Statistics  
 
