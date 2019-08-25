@@ -1,5 +1,5 @@
 # Zihao's Portfolio
-Welcome to my portfolio! My name is Zihao Xu, and I am a currently enrolled in Harvard's Master of Science in Data Science program. This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. If you are interested in learning more about me, please see my [resume](https://bit.ly/341efuz) or visit my [LinkedIn](https://www.linkedin.com/in/zihao-xu/). I can also be reached at zxu@g.harvard.edu through email.
+Welcome to my portfolio! My name is Zihao Xu, and I am currently perusing a Master's degree at Harvard University in Data Science. This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. If you are interested in learning more about me, please see my [resume](https://bit.ly/341efuz) or visit my [LinkedIn](https://www.linkedin.com/in/zihao-xu/). I can also be reached at zxu@g.harvard.edu through email.  
 
 ## Basic information  
 ### Work Experience:  
