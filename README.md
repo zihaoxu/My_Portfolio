@@ -1,5 +1,5 @@
 # Zihao's Portfolio
-Welcome to my portfolio! This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. If you are interested in learning more about me, please see my [resume](https://bit.ly/341efuz) or visit my [LinkedIn](https://www.linkedin.com/in/zihao-xu/). I can also be reached at zihao.xu@pomona.edu through email.
+Welcome to my portfolio! My name is Zihao Xu, and I am a currently enrolled in Harvard's Master of Science in Data Science program. This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. If you are interested in learning more about me, please see my [resume](https://bit.ly/341efuz) or visit my [LinkedIn](https://www.linkedin.com/in/zihao-xu/). I can also be reached at zxu@g.harvard.edu through email.
 
 ## Basic information  
 ### Work Experience:  
@@ -11,8 +11,8 @@ Welcome to my portfolio! This repository is designed to give you a better sense 
 
 ### Honors & Distinctions  
 - April 2019 - Sigma Xi Member  
-- Oct 2018 - Phi Beta Kappa (PBK) Member  
-- Sept 2018 - Bruce Jay Levy Memorial Award in Mathematics  
+- Oct. 2018 - Phi Beta Kappa (PBK) Member  
+- Sept. 2018 - Bruce Jay Levy Memorial Award in Mathematics  
 - April 2018 - Runner-up, Best Insight Award, UCLA DataFest  
 - March 2018 - First Prize, 2017 Fall USRESP Competition  
 - 2015–2018 - Pomona College Scholar (Dean’s List), all semesters  
@@ -31,8 +31,6 @@ In this thesis, we explore the intersection of the field of eye-tracking and the
 
 ### Deep Neural Networks for Object Enumeration  
 Estimating object count from images is a difficult problem that has a wide range of applications. In this work, we examine the object counting problem for images from the Amazon Bin Images Dataset. This task is riddled with many challenges, including occasional low image quality, object occlusions, and diversity in objects. This work explores a deep- learning approach using a CNN architecture for this object counting problem. Our solution combines end-to-end training on ResNet with test time augmentation, achieving promising results for this difficult task.  
-
-Keywords - Convolutional Neural Network (CNN); Amazon Bin Images Dataset; ResNet; Object Counting  
 
 **Project Repo**: https://github.com/zihaoxu/object_enumeration_ABID  
 **Project Paper**: https://bit.ly/2ZqM88G  
@@ -63,10 +61,6 @@ In this project, we explored and performed sentiment analysis on reviews obtaine
 In this project, we aim to document our methodologies in approaching the KKBox Churning Prediction Challenge. This challenge is essentially a classification problem, but the response variable is highly imbalanced. In the below sections, we will describe and visually explore the data sets. Then we will talk about several machine learning models we employed that are highly suitable for handling imbalanced data. Our current ranking on Kaggle is 136 out of 535, achieved by the XGBoost model.
 **Project Paper**: https://goo.gl/en3cSV  
 **Project Presentation**: https://goo.gl/YLjTv9  
-
-### Data Science Toolbox  
-Python pipelines built for summary statistics, data cleaning and machine learning & parameter tuning.  
-**Link**: https://goo.gl/ADVyoY  
 
 
 ### Yelp - Zillow Data Analytics - jac_project   
