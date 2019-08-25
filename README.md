@@ -13,22 +13,27 @@ Welcome to my portfolio! This repository is designed to give you a better sense 
 Artificial Intelligence, Algorithms, Stochastic Operations Research; [Computational Statistics](https://goo.gl/rfusFE); [Big Data](https://goo.gl/k7wRdq); [Econometrics](https://goo.gl/gqcrjv); Data Structures; Probability; Statistical Theory; Bayesian Statistics  
 
 
-## On-going Projects  
-### WebGazerV2: An Efficient and Accurate CNN Model for Real-time Gaze Prediction  
-This thesis introduces WebGazerV2, an eye-tracking algorithm that combines both offline and online approaches, integrating a lightweight, pre-trained CNN model with real-time calibration. The aim is to not only utilize the accuracy of CNN models but also tailor the model towards specific user conditions. Aside from accuracy, WebGazerV2 will also focus on obtaining a prediction interval so as to measure the confidence in the model's predictions. To be submitted to Pomona College as Senior Thesis for the Mathematics Major.  
+## Past Experiences  
+### Eye-tracking with Deep Neural Networks  
+In this thesis, we explore the intersection of the field of eye-tracking and the field of computer vision to build an efficient appearance-based eye-tracker using Convolutional Neural Networks (CNNs). We first build the mathematical framework of Artificial Neural Network (ANN) and transition to its variation, Convolutional Neural Networks (CNN), in addition to their training methods. Then, we provide a holistic overview of the field of eye-tracking and several distinguished existing eye-tracking tools, laying the ground work for our model. Finally, we present two CNN-based eye tracking models using the MobileNet and the ResNet50 architectures trained on dataset obtained from the WebGazer project. Through experimental results, we demonstrate that our models offer a 25\% and 10\% performance improvements measure by average euclidean distance for PC and Mac users, respectively. In addition, we show that our CNN-based models have the potential to serve as blink detectors.  
+**Project Repo**: https://github.com/zihaoxu/cnn-eye-tracker  
+**Full Thesis**: https://bit.ly/2NwPCjU  
+**Thesis Presentation**: https://www.youtube.com/watch?v=g_ISUAHx2YA&t=191s  
 
 
 ### Deep Neural Networks for Object Enumeration  
-Estimating object count from images is a difficult problem that has a wide range of applications in medical research, crowd counting and framing. In this work, we examine the object counting problem for the Amazon Bin Images dataset, which depicts bins of a pod in an operating Amazon Fulfillment Center captured before shipment. This task is riddled with many challenges, including low image quality, occlusion, non-uniform object shape, and inconsistencies in the data labels. This work presents an in-depth study of the object counting problem, exploring both classification and regression using a deep-learning approach. We present two solutions - end-to-end training on ResNet and model stacking with LightGBM and ResNet – that show promising results for this difficult task. Further, we present layer visualizations to understand why the models are effective. Experimental results show promising results for this difficult task. Paper and poster are on-going.  
+Estimating object count from images is a difficult problem that has a wide range of applications. In this work, we examine the object counting problem for images from the Amazon Bin Images Dataset. This task is riddled with many challenges, including occasional low image quality, object occlusions, and diversity in objects. This work explores a deep- learning approach using a CNN architecture for this object counting problem. Our solution combines end-to-end training on ResNet with test time augmentation, achieving promising results for this difficult task.  
+
+Keywords - Convolutional Neural Network (CNN); Amazon Bin Images Dataset; ResNet; Object Counting  
 
 **Project Repo**: https://github.com/zihaoxu/object_enumeration_ABID  
+**Project Paper**: https://bit.ly/2ZqM88G  
+**Project Poster**: https://bit.ly/2Nv6w2g  
 
 ### BikeSGV  
 Last semester, I represented Tech for Good, a student organization that helps local non-profits with finding technical solutions to impactful problems, as the technical lead and worked with the Bike San Gabriel Valley to help them analyze bike count data they gathered over the past few years. I led a team of 4 and together, we cleaned, wrangled and visualized the datasets and our results are featured in BikeSGV's [end-of-year report](http://www.bikesgv.org/sgvcounts.html). This semester, we will continue helping BikeSGV with several in-depth data analyses. While working on the project, you will gain hands-on experience in data cleaning, wrangling, visualization and maybe machine learning.  
 
 **Project Repo**: https://github.com/zihaoxu/BikeSGV  
-
-## Past Experiences  
 
 ### Bayesian Neural Networks
 This project is an exploration into the intersection of the Bayesian Paradigm and Deep Learning. We apply the Bayesian Neural Networks to two different tasks: a regression task using a toy dataset and a classification task using the Wine dataset obtained from UCI ML Repo.  
