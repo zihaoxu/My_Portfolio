@@ -1,5 +1,5 @@
 # Zihao's Portfolio
-Welcome to my portfolio! This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. If you are interested in learning more about me, please see my [resume](https://goo.gl/gvVqxW) or visit my [LinkedIn](https://www.linkedin.com/in/zihao-xu/). I can also be reached at zihao.xu@pomona.edu through email.
+Welcome to my portfolio! This repository is designed to give you a better sense of who I am, what I am capable of, and what I am passionate about. If you are interested in learning more about me, please see my [resume](https://bit.ly/341efuz) or visit my [LinkedIn](https://www.linkedin.com/in/zihao-xu/). I can also be reached at zihao.xu@pomona.edu through email.
 
 ## Basic information  
 ### Work Experience:  
