@@ -49,7 +49,7 @@ This project is an exploration into the intersection of the Bayesian Paradigm an
 ### Bag of Little Random Forests (BLRF)  
 Random Forests are an ensemble method that utilizes a number of deci- sion trees to make robust predictions in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the Random Forests algo- rithm, requires each decision tree to physically store and perform computations on data sets of the same size as the training data set. This situation is oftentimes impractical given the large size of data sets nowadays. To address this problem, we introduce the Bag of Little Ran- dom Forests (BLRF), a new algorithm that combines the Random Forests with the Bag of Little Bootstraps resampling method, aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the Random Forests. The project is submitted to the 2017 Fall Undergraduate Research Project Competition and won the first prize.  
 **Project Paper**: Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin: https://goo.gl/gJHqar  
-**Project Presentation**: https://goo.gl/KJ34uY  
+**Project Presentation**: https://bit.ly/2lyhZlu 
 **Project Poster**: https://goo.gl/LmkZu4  
 
 ### Yelp Review Sentiment Analysis  
