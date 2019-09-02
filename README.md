@@ -26,7 +26,7 @@ Artificial Intelligence, Algorithms, Stochastic Operations Research; [Computatio
 In this thesis, we explore the intersection of the field of eye-tracking and the field of computer vision to build an efficient appearance-based eye-tracker using Convolutional Neural Networks (CNNs). We first build the mathematical framework of Artificial Neural Network (ANN) and transition to its variation, Convolutional Neural Networks (CNN), in addition to their training methods. Then, we provide a holistic overview of the field of eye-tracking and several distinguished existing eye-tracking tools, laying the ground work for our model. Finally, we present two CNN-based eye tracking models using the MobileNet and the ResNet50 architectures trained on dataset obtained from the WebGazer project. Through experimental results, we demonstrate that our models offer a 25\% and 10\% performance improvements measure by average euclidean distance for PC and Mac users, respectively. In addition, we show that our CNN-based models have the potential to serve as blink detectors.  
 **Project Repo**: https://github.com/zihaoxu/cnn-eye-tracker  
 **Full Thesis**: https://bit.ly/2NwPCjU  
-**Thesis Presentation**: https://www.youtube.com/watch?v=g_ISUAHx2YA&t=191s  
+**Thesis Presentation**: https://bit.ly/2jVneLH  
 
 
 ### Deep Neural Networks for Object Enumeration  
@@ -43,38 +43,38 @@ Last semester, I represented Tech for Good, a student organization that helps lo
 
 ### Bayesian Neural Networks
 This project is an exploration into the intersection of the Bayesian Paradigm and Deep Learning. We apply the Bayesian Neural Networks to two different tasks: a regression task using a toy dataset and a classification task using the Wine dataset obtained from UCI ML Repo.  
-**Project Paper**: https://goo.gl/P1EYBu  
+**Project Paper**: https://bit.ly/2kekLfL  
 
 
 ### Bag of Little Random Forests (BLRF)  
 Random Forests are an ensemble method that utilizes a number of deci- sion trees to make robust predictions in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the Random Forests algo- rithm, requires each decision tree to physically store and perform computations on data sets of the same size as the training data set. This situation is oftentimes impractical given the large size of data sets nowadays. To address this problem, we introduce the Bag of Little Ran- dom Forests (BLRF), a new algorithm that combines the Random Forests with the Bag of Little Bootstraps resampling method, aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the Random Forests. The project is submitted to the 2017 Fall Undergraduate Research Project Competition and won the first prize.  
-**Project Paper**: Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin: https://goo.gl/gJHqar  
-**Project Presentation**: https://bit.ly/2lyhZlu 
-**Project Poster**: https://goo.gl/LmkZu4  
+**Project Paper**: Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin: https://bit.ly/2kecdFE  
+**Project Presentation**: https://bit.ly/2lyhZlu  
+**Project Poster**: https://bit.ly/2knOq63  
 
 ### Yelp Review Sentiment Analysis  
 In this project, we explored and performed sentiment analysis on reviews obtained from the Yelp Data Challenge. We explored temporal trends of review sentiment as well as interesting interactions between review tags. We also build a sentiment predictor for reviews solely based on text analysis. The resulting interactive module allows us to assess the sentiment of a unlabeled piece of review text with a confidence score.  
-**Project Paper**: https://goo.gl/s7K1uA  
-**Project Presentation**: https://goo.gl/cMzfWB  
+**Project Paper**: https://bit.ly/2lPTT5T  
+**Project Presentation**: https://bit.ly/2lAeg6X  
 
 ### KKBox Churning Prediction Kaggle Challenge  
 In this project, we aim to document our methodologies in approaching the KKBox Churning Prediction Challenge. This challenge is essentially a classification problem, but the response variable is highly imbalanced. In the below sections, we will describe and visually explore the data sets. Then we will talk about several machine learning models we employed that are highly suitable for handling imbalanced data. Our current ranking on Kaggle is 136 out of 535, achieved by the XGBoost model.
-**Project Paper**: https://goo.gl/en3cSV  
-**Project Presentation**: https://goo.gl/YLjTv9  
+**Project Paper**: https://bit.ly/2lWHOvZ  
+**Project Presentation**: https://bit.ly/2kbKrtn  
 
 
 ### Yelp - Zillow Data Analytics - jac_project   
 The purpose of the project was to explore and analyze the interaction between Zillow hosing price index and Yelp restaurant ratings to identify temporal trends. We merged and integrated the datasets by geospatial locations and performed various analyses. One of our most interesting findings was that, the most expensive restaurants, if located at a relative poor neighborhood, have experienced a significant decreasing trend in rating; however, the ratings remained constant for those located at a relatively rich neighborhood.  
-**Visualizations:**  https://goo.gl/CvJefP  
+**Visualizations:**  https://bit.ly/2knXOqc  
 
 
 ### Statsketball Challenge - ASA  
 In this project, we aim to predict 2017 NCAA March Madness basketball game results using Support Vector Machine. We scraped data from two sources: Kenpom and Sport-references, cleaned and wrangled the data, and trained a SVM model to predict the actual game results, yielding a accuracy of 84.375% on out of sample data.  
-**Project Summary:**  https://goo.gl/fEBRNx  
+**Project Summary:**  https://bit.ly/2lAeA5F  
 
 ### Expedia Challenge - UCLA DataFest  
 Using the dataset from Expedia, we segmented the market by families with varying number of children and explored the different behaviors of these segments. Using visualization techniques like heatmap and geomap, we were able to discover differences in travel planning habits, popular destinations of each group, as well as identifying the geographical distribution of large/small families to allow for better targeted promotion.  
-**Project Presentation:**  https://goo.gl/4MmRJx  
+**Project Presentation:**  https://bit.ly/2lAeA5F  
 
 
 
