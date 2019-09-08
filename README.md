@@ -18,10 +18,10 @@ Welcome to my portfolio! My name is Zihao Xu, and I am currently perusing a Mast
 - 2015–2018 - Pomona College Scholar (Dean’s List), all semesters  
 
 ### Related Courses  
-Artificial Intelligence, Algorithms, Stochastic Operations Research; [Computational Statistics](https://goo.gl/rfusFE); [Big Data](https://goo.gl/k7wRdq); [Econometrics](https://goo.gl/gqcrjv); Data Structures; Probability; Statistical Theory; Bayesian Statistics  
+Artificial Intelligence, Algorithms, Stochastic Operations Research; [Computational Statistics](https://goo.gl/rfusFE); [Big Data](https://goo.gl/k7wRdq); [Econometrics](https://goo.gl/gqcrjv); Data Structures; Probability; Statistical Theory; Bayesian Statistics; Data Science; Intro. to Machine Learning; Computer System Development  
 
 
-## Past Experiences  
+## Research Projects  
 ### Eye-tracking with Deep Neural Networks  
 In this thesis, we explore the intersection of the field of eye-tracking and the field of computer vision to build an efficient appearance-based eye-tracker using Convolutional Neural Networks (CNNs). We first build the mathematical framework of Artificial Neural Network (ANN) and transition to its variation, Convolutional Neural Networks (CNN), in addition to their training methods. Then, we provide a holistic overview of the field of eye-tracking and several distinguished existing eye-tracking tools, laying the ground work for our model. Finally, we present two CNN-based eye tracking models using the MobileNet and the ResNet50 architectures trained on dataset obtained from the WebGazer project. Through experimental results, we demonstrate that our models offer a 25\% and 10\% performance improvements measure by average euclidean distance for PC and Mac users, respectively. In addition, we show that our CNN-based models have the potential to serve as blink detectors.  
 **Project Repo**: https://github.com/zihaoxu/cnn-eye-tracker  
@@ -31,12 +31,25 @@ In this thesis, we explore the intersection of the field of eye-tracking and the
 
 ### Deep Neural Networks for Object Enumeration  
 Estimating object count from images is a difficult problem that has a wide range of applications. In this work, we examine the object counting problem for images from the Amazon Bin Images Dataset. This task is riddled with many challenges, including occasional low image quality, object occlusions, and diversity in objects. This work explores a deep- learning approach using a CNN architecture for this object counting problem. Our solution combines end-to-end training on ResNet with test time augmentation, achieving promising results for this difficult task.  
-
 **Project Repo**: https://github.com/zihaoxu/object_enumeration_ABID  
 **Project Paper**: https://bit.ly/2ZqM88G  
 **Project Poster**: https://bit.ly/2Nv6w2g  
 
-### BikeSGV  
+
+### Bag of Little Random Forests (BLRF)  
+Random Forests are an ensemble method that utilizes a number of deci- sion trees to make robust predictions in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the Random Forests algo- rithm, requires each decision tree to physically store and perform computations on data sets of the same size as the training data set. This situation is oftentimes impractical given the large size of data sets nowadays. To address this problem, we introduce the Bag of Little Ran- dom Forests (BLRF), a new algorithm that combines the Random Forests with the Bag of Little Bootstraps resampling method, aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the Random Forests. The project is submitted to the 2017 Fall Undergraduate Research Project Competition and won the first prize.  
+**Project Paper**: Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin: https://bit.ly/2kBluYr  
+**Project Presentation**: https://bit.ly/2lyhZlu  
+**Project Poster**: https://bit.ly/2knOq63  
+
+
+### Yelp - Zillow Data Analytics - jac_project   
+The purpose of the project was to explore and analyze the interaction between Zillow hosing price index and Yelp restaurant ratings to identify temporal trends. We merged and integrated the datasets by geospatial locations and performed various analyses. One of our most interesting findings was that, the most expensive restaurants, if located at a relative poor neighborhood, have experienced a significant decreasing trend in rating; however, the ratings remained constant for those located at a relatively rich neighborhood.  
+**Visualizations:**  https://bit.ly/2knXOqc  
+
+
+## Data Science Projects
+### BikeSGV - Data Science for Social Good  
 Last semester, I represented Tech for Good, a student organization that helps local non-profits with finding technical solutions to impactful problems, as the technical lead and worked with the Bike San Gabriel Valley to help them analyze bike count data they gathered over the past few years. I led a team of 4 and together, we cleaned, wrangled and visualized the datasets and our results are featured in BikeSGV's [end-of-year report](http://www.bikesgv.org/sgvcounts.html). This semester, we will continue helping BikeSGV with several in-depth data analyses. While working on the project, you will gain hands-on experience in data cleaning, wrangling, visualization and maybe machine learning.  
 
 **Project Repo**: https://github.com/zihaoxu/BikeSGV  
@@ -46,26 +59,16 @@ This project is an exploration into the intersection of the Bayesian Paradigm an
 **Project Paper**: https://bit.ly/2kekLfL  
 
 
-### Bag of Little Random Forests (BLRF)  
-Random Forests are an ensemble method that utilizes a number of deci- sion trees to make robust predictions in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the Random Forests algo- rithm, requires each decision tree to physically store and perform computations on data sets of the same size as the training data set. This situation is oftentimes impractical given the large size of data sets nowadays. To address this problem, we introduce the Bag of Little Ran- dom Forests (BLRF), a new algorithm that combines the Random Forests with the Bag of Little Bootstraps resampling method, aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the Random Forests. The project is submitted to the 2017 Fall Undergraduate Research Project Competition and won the first prize.  
-**Project Paper**: Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin: https://bit.ly/2kecdFE  
-**Project Presentation**: https://bit.ly/2lyhZlu  
-**Project Poster**: https://bit.ly/2knOq63  
-
 ### Yelp Review Sentiment Analysis  
 In this project, we explored and performed sentiment analysis on reviews obtained from the Yelp Data Challenge. We explored temporal trends of review sentiment as well as interesting interactions between review tags. We also build a sentiment predictor for reviews solely based on text analysis. The resulting interactive module allows us to assess the sentiment of a unlabeled piece of review text with a confidence score.  
 **Project Paper**: https://bit.ly/2lPTT5T  
 **Project Presentation**: https://bit.ly/2lAeg6X  
 
+
 ### KKBox Churning Prediction Kaggle Challenge  
 In this project, we aim to document our methodologies in approaching the KKBox Churning Prediction Challenge. This challenge is essentially a classification problem, but the response variable is highly imbalanced. In the below sections, we will describe and visually explore the data sets. Then we will talk about several machine learning models we employed that are highly suitable for handling imbalanced data. Our current ranking on Kaggle is 136 out of 535, achieved by the XGBoost model.
 **Project Paper**: https://bit.ly/2lWHOvZ  
 **Project Presentation**: https://bit.ly/2kbKrtn  
-
-
-### Yelp - Zillow Data Analytics - jac_project   
-The purpose of the project was to explore and analyze the interaction between Zillow hosing price index and Yelp restaurant ratings to identify temporal trends. We merged and integrated the datasets by geospatial locations and performed various analyses. One of our most interesting findings was that, the most expensive restaurants, if located at a relative poor neighborhood, have experienced a significant decreasing trend in rating; however, the ratings remained constant for those located at a relatively rich neighborhood.  
-**Visualizations:**  https://bit.ly/2knXOqc  
 
 
 ### Statsketball Challenge - ASA  
