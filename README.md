@@ -23,7 +23,7 @@ Artificial Intelligence, Algorithms, Stochastic Operations Research; [Computatio
 
 ## Research Projects  
 ### Eye-tracking with Deep Neural Networks  
-In this thesis, we explore the intersection of the field of eye-tracking and the field of computer vision to build an efficient appearance-based eye-tracker using Convolutional Neural Networks (CNNs). We first build the mathematical framework of Artificial Neural Network (ANN) and transition to its variation, Convolutional Neural Networks (CNN), in addition to their training methods. Then, we provide a holistic overview of the field of eye-tracking and several distinguished existing eye-tracking tools, laying the ground work for our model. Finally, we present two CNN-based eye tracking models using the MobileNet and the ResNet50 architectures trained on dataset obtained from the WebGazer project. Through experimental results, we demonstrate that our models offer a 25\% and 10\% performance improvements measure by average euclidean distance for PC and Mac users, respectively. In addition, we show that our CNN-based models have the potential to serve as blink detectors.  
+In this thesis, we explore the intersection of the field of eye-tracking and the field of computer vision to build an efficient appearance-based eye-tracker using Convolutional Neural Networks (CNNs). We first build the mathematical framework of Artificial Neural Network (ANN) and transition to its variation, Convolutional Neural Networks (CNN), in addition to their training methods. Then, we provide a holistic overview of the field of eye-tracking and several distinguished existing eye-tracking tools, laying the ground work for our model. Finally, we present two CNN-based eye tracking models using the MobileNet and the ResNet50 architectures trained on dataset obtained from the WebGazer project. Through experimental results, we demonstrate that our models offer a 25\% and 10\% performance improvements measure by average Euclidean distance for PC and Mac users, respectively. In addition, we show that our CNN-based models have the potential to serve as blink detectors.  
 **Project Repo**: https://github.com/zihaoxu/cnn-eye-tracker  
 **Full Thesis**: https://bit.ly/2NwPCjU  
 **Thesis Presentation**: https://bit.ly/2jVneLH  
@@ -37,7 +37,7 @@ Estimating object count from images is a difficult problem that has a wide range
 
 
 ### Bag of Little Random Forests (BLRF)  
-Random Forests are an ensemble method that utilizes a number of deci- sion trees to make robust predictions in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the Random Forests algo- rithm, requires each decision tree to physically store and perform computations on data sets of the same size as the training data set. This situation is oftentimes impractical given the large size of data sets nowadays. To address this problem, we introduce the Bag of Little Ran- dom Forests (BLRF), a new algorithm that combines the Random Forests with the Bag of Little Bootstraps resampling method, aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the Random Forests. The project is submitted to the 2017 Fall Undergraduate Research Project Competition and won the first prize.  
+Random Forests are an ensemble method that utilizes a number of decision trees to make robust predictions in both regression and classification settings. However, the process of bootstrap aggregation, the mechanism underlying the Random Forests algorithm, requires each decision tree to physically store and perform computations on data sets of the same size as the training data set. This situation is oftentimes impractical given the large size of data sets nowadays. To address this problem, we introduce the Bag of Little Random Forests (BLRF), a new algorithm that combines the Random Forests with the Bag of Little Bootstraps resampling method, aiming to achieve a better computational profile while producing predictions with comparable accuracy as those of the Random Forests. The project is submitted to the 2017 Fall Undergraduate Research Project Competition and won the first prize.  
 **Project Paper**: Bag of Little Random Forests - Zihao Xu, Dr. Johanna Hardin: https://bit.ly/2kBluYr  
 **Project Presentation**: https://bit.ly/2lyhZlu  
 **Project Poster**: https://bit.ly/2knOq63  
@@ -72,7 +72,7 @@ In this project, we aim to document our methodologies in approaching the KKBox C
 
 
 ### Statsketball Challenge - ASA  
-In this project, we aim to predict 2017 NCAA March Madness basketball game results using Support Vector Machine. We scraped data from two sources: Kenpom and Sport-references, cleaned and wrangled the data, and trained a SVM model to predict the actual game results, yielding a accuracy of 84.375% on out of sample data.  
+In this project, we aim to predict 2017 NCAA March Madness basketball game results using Support Vector Machine. We scraped data from two sources: Kenpom and Sport-references, cleaned and wrangled the data, and trained a SVM model to predict the actual game results, yielding an accuracy of 84.375% on out of sample data.  
 **Project Summary:**  https://bit.ly/2lAeA5F  
 
 ### Expedia Challenge - UCLA DataFest  
