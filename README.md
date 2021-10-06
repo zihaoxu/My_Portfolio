@@ -22,6 +22,12 @@ Artificial Intelligence, Algorithms, Stochastic Operations Research; [Computatio
 
 
 ## Research Projects  
+### FLORABERT: cross-species transfer learning with attention-based neural networks for gene expression prediction (work in progress)  
+In this project, we explore the possibility of adapting the RoBERTa transformer model to predict multi-label gene expression of maize through transfer learning. The transformer model is first pre-trained on plant DNA sequences to learn the language of plant sequences using byte-pari-encoding tokenization. Next, the model is fine-tined on the task of gene expression prediction using maize regulatory sequences pair with vectors of gene expressions. The project is one of the first to introduce modern NLP techniques to the field of genetics and paves the way for genetic engineering of crops and future relevant research.  
+**Project Repo**: currently unreleased  
+**Project Blog Post**: https://bit.ly/3oxGazb  
+**Project Poster**: https://bit.ly/2YonWF1  
+
 ### Eye-tracking with Deep Neural Networks  
 In this thesis, we explore the intersection of the field of eye-tracking and the field of computer vision to build an efficient appearance-based eye-tracker using Convolutional Neural Networks (CNNs). We first build the mathematical framework of Artificial Neural Network (ANN) and transition to its variation, Convolutional Neural Networks (CNN), in addition to their training methods. Then, we provide a holistic overview of the field of eye-tracking and several distinguished existing eye-tracking tools, laying the ground work for our model. Finally, we present two CNN-based eye tracking models using the MobileNet and the ResNet50 architectures trained on dataset obtained from the WebGazer project. Through experimental results, we demonstrate that our models offer a 25\% and 10\% performance improvements measure by average Euclidean distance for PC and Mac users, respectively. In addition, we show that our CNN-based models have the potential to serve as blink detectors.  
 **Project Repo**: https://github.com/zihaoxu/cnn-eye-tracker  
@@ -30,7 +36,7 @@ In this thesis, we explore the intersection of the field of eye-tracking and the
 
 
 ### Deep Neural Networks for Object Enumeration  
-Estimating object count from images is a difficult problem that has a wide range of applications. In this work, we examine the object counting problem for images from the Amazon Bin Images Dataset. This task is riddled with many challenges, including occasional low image quality, object occlusions, and diversity in objects. This work explores a deep- learning approach using a CNN architecture for this object counting problem. Our solution combines end-to-end training on ResNet with test time augmentation, achieving promising results for this difficult task.  
+Estimating object count from images is a difficult problem that has a wide range of applications. In this work, we examine the object counting problem for images from the Amazon Bin Images Dataset. This task is riddled with many challenges, including occasional low image quality, object occlusions, and diversity in objects. This work explores a deep-learning approach using a CNN architecture for this object counting problem. Our solution combines end-to-end training on ResNet with test time augmentation, achieving promising results for this difficult task.  
 **Project Repo**: https://github.com/zihaoxu/object_enumeration_ABID  
 **Project Paper**: https://bit.ly/2ZqM88G  
 **Project Poster**: https://bit.ly/2Nv6w2g  
