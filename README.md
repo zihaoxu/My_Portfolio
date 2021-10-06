@@ -3,6 +3,7 @@ Welcome to my portfolio! My name is Zihao Xu, and I am currently perusing a Mast
 
 ## Basic information  
 ### Work Experience:  
+- Data Scientist (Model Development) at McKinsey & Co
 - Summer Analyst at Cornerstone Research  
 - Business and Credit Risk Analyst Intern at Scratch Financial, LLC  
 - Summer Researcher at Pomona College Mathematics Department  
@@ -18,7 +19,7 @@ Welcome to my portfolio! My name is Zihao Xu, and I am currently perusing a Mast
 - 2015–2018 - Pomona College Scholar (Dean’s List), all semesters  
 
 ### Related Courses  
-Artificial Intelligence, Algorithms, Stochastic Operations Research; [Computational Statistics](https://goo.gl/rfusFE); [Big Data](https://goo.gl/k7wRdq); [Econometrics](https://goo.gl/gqcrjv); Data Structures; Probability; Statistical Theory; Bayesian Statistics; Data Science; Intro. to Machine Learning; Computer System Development  
+Data Science, Advanced Analytics of Finance, Investment Strategies, Natural Language Processing, Visualization, Stochastic Methods for Data Analysis, Machine Learning, Artificial Intelligence, Algorithms, Stochastic Operations Research; [Computational Statistics](https://goo.gl/rfusFE); [Big Data](https://goo.gl/k7wRdq); [Econometrics](https://goo.gl/gqcrjv); Data Structures; Probability; Statistical Theory; Bayesian Statistics
 
 
 ## Research Projects  
